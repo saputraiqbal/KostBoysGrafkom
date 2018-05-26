@@ -6,30 +6,18 @@ This is a site that allows you to show an usual dormitory that usually a college
 
 This is an application that allows you to show the ordinary view of a dormitory (called "kamar kos" in Indonesian) that usually used by college student.
 
-```markdown
-Syntax highlighted code block
+### Download Links
 
-# Header 1
-## Header 2
-### Header 3
+- **[Link for download executable project]** (https://github.com/saputraiqbal/KostBoysGrafkom/blob/master/Kamar%20kost%20executable.rar)
+- **[Link for view the full project codes]** (https://github.com/saputraiqbal/KostBoysGrafkom)
+- **[Link for view the video projects]** (https://drive.google.com/open?id=1GPtUDShpD0ZCujE8CnpETy6oxw8W9t-3)
 
-- Bulleted
-- List
+### Team Members
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/saputraiqbal/KostBoysGrafkom/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. Fikri Ihsan Ahmad (155150207111040)
+2. Iqbal Santoso Putra (155150200111258)
+3. Achmad arif kusamiaji (155150200111268)
+4. Muhammad Zaki Nabil (155150200111260)
+5. Usman Adi Nugroho (155150200111093)	
+6. M Hilmi Hibatullah	(155150200111098)
+7. Mujahid Bariz Hilmi	(155150207111035)
