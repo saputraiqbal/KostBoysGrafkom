@@ -1,0 +1,9 @@
+﻿  glad.c
+  RenderEngine.cpp
+d:\documents\grafika komputer dan visualisasi\vs\lesson02\renderengine.cpp(199): warning C4101: 'infoLog': unreferenced local variable
+d:\documents\grafika komputer dan visualisasi\vs\lesson02\renderengine.cpp(198): warning C4101: 'success': unreferenced local variable
+  Demo.cpp
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Lesson02.vcxproj -> D:\Documents\Grafika Komputer dan Visualisasi\vs\Debug\Lesson02.exe
+  Lesson02.vcxproj -> D:\Documents\Grafika Komputer dan Visualisasi\vs\Debug\Lesson02.pdb (Partial PDB)
